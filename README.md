@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![CardioPRNet](images/network.png)
+![CardioPRNet](images/Network.png)
 
 This is the proposed CardioPRNet architecture.
 
