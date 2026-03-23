@@ -32,10 +32,8 @@ pip install -r requirements.txt
 
 ## Dataset
 
-- The total size of the dataset is **12.5 GB**, which exceeds the **50 MB** limit for supplementary materials.
-- The full dataset will be released on our GitHub repository upon acceptance.
-- We provide a **pseudocode** for synthetic dataset generation in the supplementary material, which can be used to generate the full dataset locally.
-- For convenience, we also include **10 test samples** in the supplementary material for evaluation.
+- The total size of the dataset is **12.5 GB**. The full dataset will be released on our GitHub repository upon acceptance.
+- For convenience, we also include **10 test samples** for evaluation.
 
 
 ## Training
