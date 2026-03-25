@@ -1,4 +1,4 @@
-# CardioPRNet: A Lightweight Network with Adaptive Grids and Progressive Refinement for 3D Four-Chamber Cardiac Point Cloud Reconstruction 
+# CardioPRNet: A Lightweight Network with Adaptive Grids and Progressive Refinement for 3D Whole Heart Point Cloud Reconstruction 
 
 ## Introduction
 
